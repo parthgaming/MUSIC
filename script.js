@@ -10,47 +10,47 @@ const artistName = document.querySelector(".music-player p");
 
 const songs = [
   {
-    title: "Ram Aayenge 🚩",
-    name: "Ram Aayenge 🚩By Shobhit Asthana",
+    title: "Hangover",
+    name: "My 1st Birthday Pic🥰",
     source:
-      "Ram Aayenge.m4a",
+      "Hangover Song.mp3",
   },
   {
-    title: "ADHARAM MADHURAM",
-    name: "ADHARAM MADHURAM By Shobhit Asthana",
+    title: "Pehli Daffa",
+    name: "My Current Sexi Pic😛",
     source:
-      "ADHARAM MADHURAM.m4a",
+      "Pehli Dafa Song.mp3",
   },
   {
-    title: "Ram Aayenge 🚩",
-    name: "Ram Aayenge 🚩By Shobhit Asthana",
+    title: "Kesariya Tera",
+    name: "Dudu and Bubu Pic😘",
     source:
-      "Ram Aayenge.m4a",
+      "Kesariya Brahmāstra.mp3",
   },
   {
-    title: "Keejo Kesari Ke Laal",
-    name: "Keejo Kesari Ke Laal By Shobhit Asthana",
+    title: "Ishq Wala Love",
+    name: "Me and My Love Pic🩷",
     source:
-      "Keejo Kesari Ke Laal.m4a",
+      "Ishq Wala Love.mp3",
   },
   {
-    title: "Shiv Tandav Stotram",
-    name: "Shiv Tandav Stotram By Shobhit Asthana",
+    title: "Apna Bana Le",
+    name: "My and Swaru Pic❣️",
     source:
-      "Shiv Tandav Stotram.m4a",
+      "Apna Bana Le.mp3",
   },
 
   {
-    title: "ganpati bappa morya 🙏🙏🚩🚩❤️❤️❤️❤️",
-    name: "ganpati bappa morya 🙏🚩❤️ by Shobhit Asthana",
+    title: "Satranga Ishq",
+    name: "My Love Pic😍",
     source:
-      "ganpati bappa morya.m4a",
+      "SATRANGA Song.mp3",
   },
   {
-    title: "Shakti Hai Bhakti Hai",
-    name: "Shakti Hai Bhakti Hai By Shobhit Ashana",
+    title: "Rataan Lambiya",
+    name: "Radhika Pic 🥰",
     source:
-      "Shakti Hai Bhakti Hai.m4a",
+      "Raataan Lambiyan.mp3",
   },
 ];
 
